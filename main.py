@@ -1,0 +1,1 @@
+print("Rinat is cool")
