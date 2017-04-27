@@ -1,2 +1,4 @@
-print("Rinat is cool")
+
+a = int(input())
+print(a)
 print("Rinat is cool")
